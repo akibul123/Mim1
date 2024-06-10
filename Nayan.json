@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "Fahim Islam",
+  "BOTNAME": "Mim",
   "PREFIX": "/",
   "OPERATOR": [
     "",
     "100046430705172"
   ],
   "ADMINBOT": [
-    "100065050393649",
-    "100005938666995"
+    "100046430705172 ",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
